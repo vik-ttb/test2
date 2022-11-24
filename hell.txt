@@ -1,4 +1,4 @@
-Hell yeah
+asfafdasfxcvszcxvHell yeah
       1       2      10
 total 8
 -rw-rw-r-- 1 vik vik 34 lis 23 20:43 hell.txt
@@ -13,3 +13,7 @@ asdasddsa
 
 
 sadfsdfa
+
+
+
+helllllllllllllllllllllllllllllllllllll
